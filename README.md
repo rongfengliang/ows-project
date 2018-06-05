@@ -70,3 +70,9 @@ http://[owas.domain]/wv/wordviewerframe.aspx?PdfMode=1&ui=zh-CN&WOPISrc=http://[
 
 http://10.16.201.44/wv/wordviewerframe.aspx?PdfMode=1&ui=zh-CN&WOPISrc=http://10.6.237.190:8080/wopi/files/a.pdf
 ```
+
+## 一些截图
+
+![image](./images/WX20180605-103302@2x.png)
+
+![image](./images/WX20180605-103534@2x.png)
