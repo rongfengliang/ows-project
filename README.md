@@ -10,7 +10,7 @@
 
 ## 安装部署
 
-> 需要的软件包 链接:https://pan.baidu.com/s/1TBZznZLuxkcd1OSuZD3YLw  密码:pamu
+> 需要的软件包 链接: https://pan.baidu.com/s/1kYCM6BPQ2VPFOkVoEbwXvg 提取码: 4ynp
 
 > 我安装使用的是windows server  2012 r2 datacenter 版
 
